@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LockScreenTool</string>
+    <string name="tips">需要获取设备管理者权限才能拥有锁屏功能</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnReg">获取设备管理者权限</string>
+    <string name="Reged">已获取设备管理者权限</string>
+    <string name="UnReged">您取消了设备管理者权限</string>
+    <string name="btnUnReg">取消设备管理者权限</string>
+    <string name="lockScreen">锁屏</string>
+    <string name="main_app_name">配置一键锁屏工具</string>
+    <string name="OneKeyLockScreenActivity_app_name">一键锁屏</string>
+</resources>
